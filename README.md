@@ -92,3 +92,4 @@ Static SPA — deploy the `dist/` folder anywhere. SPA route rewrites are pre-co
 
 © Promento Custom Trophy & Awards. All designs are the intellectual property of Promento Custom Trophy & Awards.
 # trophy
+# trophy
